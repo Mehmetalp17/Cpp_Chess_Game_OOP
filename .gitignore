@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore build artifacts
+test
+*.o
+
+# Ignore VS Code settings
+.vscode/
