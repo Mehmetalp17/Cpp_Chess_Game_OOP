@@ -74,6 +74,7 @@ You can resume the game by choosing “Load Game” at the menu.
 	•	Improve AI with Minimax or Alpha-Beta pruning
 
 👨‍💻 Author
+
     Mehmet Alp Atay
     Computer Engineering Student at Gebze Technical University
 
